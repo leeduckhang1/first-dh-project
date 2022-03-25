@@ -24,5 +24,7 @@ setcookie($cookieName, $cookieValue, time()+60, '/');
     }
     
     ?>
+
+    <p>이부분 추가</p>
 </body>
 </html>
